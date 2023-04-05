@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todorjs-app/static/css/main.5e49a746.css",
+    "main.js": "/todorjs-app/static/js/main.eb0b81e8.js",
+    "index.html": "/todorjs-app/index.html",
+    "main.5e49a746.css.map": "/todorjs-app/static/css/main.5e49a746.css.map",
+    "main.eb0b81e8.js.map": "/todorjs-app/static/js/main.eb0b81e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e49a746.css",
+    "static/js/main.eb0b81e8.js"
+  ]
+}
